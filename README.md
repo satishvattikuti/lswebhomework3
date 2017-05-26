@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is:Satish Vattikuti
 
-I like to:
+I like to:Dance And play volleyball.
 
-I'm learning:
+I'm learning: java script
 
 ```
 
